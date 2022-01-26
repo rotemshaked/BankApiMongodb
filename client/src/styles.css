@@ -11,7 +11,9 @@
 }
 .user {
   color: white;
-  margin: 2vh 0vh;
+  margin-right: 2vh;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
   width: 15vw;
   height: 15vh;
   background-color: rgb(12, 64, 66);
@@ -28,9 +30,9 @@
 }
 .findAccount {
   color: white;
-  margin: 2vh;
-  width: 15vw;
-  height: 15vh;
+  margin: 2vh 0vh;
+  width: 10vw;
+  height: 10vh;
   background-color: rgb(87, 179, 182);
   border: 2px black solid;
 }
